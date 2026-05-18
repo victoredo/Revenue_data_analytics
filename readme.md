@@ -1,4 +1,4 @@
-## Monzo Account Lifecycle and Transactions Data Model
+
 
 # Project Overview
 This project involves designing a reliable and accurate data model representing the lifecycle of Monzo accounts, including their creation, closure, reopening, and transactional data. The model provides a comprehensive view of each account and allows analysts to quickly and easily perform business analysis, ensuring historical consistency and flexibility for various use cases.
